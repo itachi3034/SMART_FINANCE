@@ -249,7 +249,7 @@ else:
     best_model_row = comparison_df.loc[comparison_df['Net_Profit_Per_Unit'].idxmax()]
 
 print("\n=======================================================")
-print("  💰 FINANCIAL COMPARISON (INR system) 💰")
+print("   FINANCIAL COMPARISON (INR system) ")
 print("=======================================================")
 print(
     f"ASSUMPTIONS: Bulk Quantity={BULK_QUANTITY}, "
